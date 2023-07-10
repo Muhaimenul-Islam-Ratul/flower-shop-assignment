@@ -127,7 +127,8 @@
     color: #272727;
     font-size: 40px;
 }
-.offer-off{
+
+.offer-off {
     color: #E55473;
 }
 
@@ -147,6 +148,45 @@
     color: #FFF;
     font-size: 20px;
 }
-.offer-img{
+
+.offer-img {
     margin: 100px 429px 100px 0px;
+}
+
+.all-img {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* next part  */
+.latest-deal {
+    margin: 128px 240px;
+    justify-content: center;
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    width: 1440px;
+    height: 449px;
+    color: #272727;
+    text-align: center;
+}
+.last-header{
+    padding: 122px 534px 16px 533px;
+    font-size: 40px;
+}
+.coupon{
+    padding: 0px 605px 48px 604px;
+    font-size: 18px;
+}
+.email-den{
+    width: 700px;
+height: 64px;
+font-size: 16px;
+}
+.last-button{
+    background-color: #E55473;
+    margin: 0px 287px 121px 16px;
+    padding: 20px 20px;
+    border-radius: 8px;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
 }
