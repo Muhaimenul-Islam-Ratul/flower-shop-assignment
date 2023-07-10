@@ -1,0 +1,70 @@
+.main-header {
+    width: 1920px;
+    height: 850px;
+    background-color: #E554731A;
+    display: flex;
+}
+
+.title-bar {
+    margin: 197px 97px 0px 240px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.title-discription {
+    margin: 32px 171px 32px 240px;
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+}
+
+.title-button {
+    background-color: #E55473;
+    margin: 32px 171px 32px 240px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+}
+
+.image {
+    margin: 50px 240px 0px 0px;
+}
+
+/* selaction part start  */
+.body-head {
+    margin: 178px 663px 48px 663px;
+    text-align: center;
+}
+
+.body-title {
+    /* margin: 178px 764px 24px 764px; */
+    margin-bottom: 20px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px
+}
+
+.body-title-discreption {
+    /* margin: 0px 663px 48px 663px; */
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+
+.image-show {
+    display: flex;
+
+}
+
+.flower-1 {
+    padding: 110px 78px 0px 76px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
