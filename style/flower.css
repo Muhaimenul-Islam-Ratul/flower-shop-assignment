@@ -40,26 +40,33 @@
 
 /* selaction part start  */
 .body-head {
-    margin: 178px 663px 48px 663px;
+    
+    margin: 178px 600px 48px 600px;
     text-align: center;
 }
 
 .body-title {
+    width: 594px;
     /* margin: 178px 764px 24px 764px; */
     margin-bottom: 20px;
     color: #272727;
-    text-align: center;
+    /* text-align: center; */
     font-family: Lato;
     font-size: 40px
+    
 }
 
 .body-title-discreption {
     /* margin: 0px 663px 48px 663px; */
+    text-align: left;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
+    width: 594px;
+
 }
 
 .image-show {
+    width : 1920px;
     display: flex;
     justify-content: space-around;
 
@@ -85,6 +92,7 @@
 }
 
 .flower-name {
+    width : 1920px;
     display: flex;
     justify-content: space-around;
     text-align: center;
@@ -154,6 +162,7 @@
 }
 
 .all-img {
+    width : 1920px;
     display: flex;
     justify-content: space-around;
 }
