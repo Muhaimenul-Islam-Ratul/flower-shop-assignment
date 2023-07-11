@@ -1,5 +1,5 @@
 .main-header {
-    width: 1920px;
+    width: 1920px; 
     height: 850px;
     background-color: #E554731A;
     display: flex;
@@ -168,20 +168,24 @@
     color: #272727;
     text-align: center;
 }
-.last-header{
+
+.last-header {
     padding: 122px 534px 16px 533px;
     font-size: 40px;
 }
-.coupon{
+
+.coupon {
     padding: 0px 605px 48px 604px;
     font-size: 18px;
 }
-.email-den{
+
+.email-den {
     width: 700px;
-height: 64px;
-font-size: 16px;
+    height: 64px;
+    font-size: 16px;
 }
-.last-button{
+
+.last-button {
     background-color: #E55473;
     margin: 0px 287px 121px 16px;
     padding: 20px 20px;
@@ -189,4 +193,28 @@ font-size: 16px;
     border: none;
     color: #FFF;
     font-size: 20px;
+}
+
+.last-page {
+    background-color: #111010;
+    width: 1922px;
+    height: 449px;
+    text-align: center;
+}
+
+.footer-head {
+    padding: 128px 832px 24px 832px;
+    color: #E55473;
+    font-size: 48px;
+}
+
+.footer-description {
+    padding: 0px 649px 32px 648px;
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+}
+.footer-last-line{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
 }
