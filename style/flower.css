@@ -1,3 +1,6 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
 .main-header {
     width: 1920px; 
     height: 850px;
@@ -215,6 +218,9 @@
     padding: 128px 832px 24px 832px;
     color: #E55473;
     font-size: 48px;
+}
+.footer-shop{
+    color: #FFFFFF;
 }
 
 .footer-description {
